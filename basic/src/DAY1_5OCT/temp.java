@@ -1,4 +1,4 @@
-package basic;
+package DAY1_5OCT;
 
 import java.util.*;
 public class temp {
