@@ -1,4 +1,4 @@
-package DAY1_6OCT;
+package DAY2_6OCT;
 //
 //public class box {
 //      public static void main(String[] args) {
