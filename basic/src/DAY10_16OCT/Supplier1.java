@@ -10,10 +10,12 @@ public class Supplier1 {
 public static void main(String[] args) {
 
 
-	        Supplier<String> message = () -> "Hello, I love cricket";
+        Supplier<String> message = () -> "Hello, I love cricket";
 
-	        System.out.println(message.get());
-	    }
+        System.out.println(message.get());
+    }
 	}	
+
+ 
 
 
