@@ -1,4 +1,4 @@
-package DAY7_14OCT;
+package DAY8_14OCT;
 
 
 	public class ThreadDemo extends Thread {
